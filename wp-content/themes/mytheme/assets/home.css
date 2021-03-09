@@ -1,0 +1,27 @@
+
+body {
+    font-family: "Asap regular", "Montserrat SemiBold", serif, sans-serif;
+}
+
+
+#myCarousel > div > div > div > div > h1 {
+    font-family: 'Pacifico', cursive;
+    color: black;
+}
+nav.navbar {
+    background: #F8F1F1;
+    font-size: x-large;
+}
+
+a {
+    color: #DB6400;
+}
+
+a:hover {
+    color: #FFA62B;
+}
+
+
+a.nav-link {
+    font-family: Roboto, serif;
+}
