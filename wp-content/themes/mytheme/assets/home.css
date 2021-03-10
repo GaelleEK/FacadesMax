@@ -1,13 +1,19 @@
-
-body {
-    font-family: "Asap regular", "Montserrat SemiBold", serif, sans-serif;
-}
+/*body {*/
+/*    font-family: "Candal", "Asap regular", "Montserrat SemiBold", serif, sans-serif;*/
+/*}*/
 
 
 #myCarousel > div > div > div > div > h1 {
-    font-family: 'Pacifico', cursive;
+    font-family: Raleway, serif;
     color: black;
+    display: initial;
+    box-sizing: content-box;
 }
+
+#myCarousel > div > div > div > div h1 {
+    background-color: rgba(255, 255, 255, 0.4);
+}
+
 nav.navbar {
     background: #F8F1F1;
     font-size: x-large;
@@ -21,7 +27,34 @@ a:hover {
     color: #FFA62B;
 }
 
-
 a.nav-link {
-    font-family: Roboto, serif;
+    font-family: Raleway, bold, sans-serif;
+}
+
+p {
+    font-family: Raleway, sans-serif;
+}
+
+h2 {
+    font-family: Candal, sans-serif;
+}
+div.custom-icon-metre {
+    background: url(../images/logo-metre.jpg) no-repeat;
+    height: 300px;
+    width: 300px;
+}
+div.custom-icon-plan {
+    background: url(../images/logo-plan.jpg) no-repeat;
+    height: 300px;
+    width: 300px;
+}
+div.custom-icon-plomb {
+    background: url(../images/logo-plomb.jpg) no-repeat;
+    height: 300px;
+    width: 300px;
+}
+div.custom-icon-represent {
+    background: url(../images/logo-represent.jpg) no-repeat;
+    height: 300px;
+    width: 300px;
 }

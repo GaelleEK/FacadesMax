@@ -43,9 +43,9 @@
                 <img class="first-slide" src="<?= get_template_directory_uri() . '/images/slide/slide001.jpg' ?>" alt="First slide">
                 <div class="container">
                     <div class="carousel-caption text-right">
-                        <h1>Façades neuves ou à rénover</h1>
+                        <h1> Façades neuves ou à rénover </h1>
 <!--                        <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>-->
-                        <p><a class="btn btn-dark" href="#" role="button">Demander un devis</a></p>
+                        <p><a class="btn btn-dark mt-2" href="#" role="button">Demandez un devis</a></p>
                     </div>
                 </div>
             </div>
@@ -53,9 +53,9 @@
                 <img class="second-slide" src="<?= get_template_directory_uri() . '/images/slide/slide002.jpg' ?>" alt="Second slide">
                 <div class="container">
                     <div class="carousel-caption">
-                        <h1>Isolation par l'extérieur ou l'intérieur</h1>
+                        <h1> Isolation par l'extérieur ou l'intérieur </h1>
 <!--                        <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>-->
-                        <p><a class="btn btn-dark" href="#" role="button">Demander un devis</a></p>
+                        <p><a class="btn btn-dark mt-2" href="#" role="button">Demandez un devis</a></p>
                     </div>
                 </div>
             </div>
@@ -63,9 +63,9 @@
                 <img class="third-slide" src="<?= get_template_directory_uri() . '/images/slide/slide003.jpg' ?>" alt="Third slide">
                 <div class="container">
                     <div class="carousel-caption text-left">
-                        <h1>Demandez un devis gratuit</h1>
+                        <h1> Demandez un devis gratuit </h1>
 <!--                        <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>-->
-                        <p><a class="btn btn-dark" href="#" role="button">Demander un devis</a></p>
+                        <p><a class="btn btn-dark mt-2" href="#" role="button">Passer à l'action</a></p>
                     </div>
                 </div>
             </div>
