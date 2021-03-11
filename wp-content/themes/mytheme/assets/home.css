@@ -108,5 +108,11 @@ button.wpcf7-form-control.wpcf7-submit.cf7md-submit-btn.mdc-button.mdc-button--o
 }
 
 #cf7md-form .mdc-theme--text-primary-on-background, #cf7md-form .mdc-theme--text-primary-on-light, #cf7md-form .mdc-text-field:not(.mdc-text-field--disabled) .mdc-text-field__input, #cf7md-form .mdc-select:not(.mdc-select--disabled) .mdc-select__native-control, #cf7md-form .mdc-form-field, #cf7md-form .cf7md-file--value, #cf7md-form .cf7md-card-title, #cf7md-form .mdc-list a.mdc-list-item, #cf7md-form input, #cf7md-form textarea, #cf7md-form select, #cf7md-form .wpcf7-list-item label, #cf7md-form .cf7md-switch-label, #cf7md-form .cf7md-checkbox-label, #cf7md-form .cf7md-radio-label, #cf7md-form .cf7md-accept-label, #cf7md-form .mdc-text-field:not(.mdc-text-field--disabled) .mdc-floating-label, #cf7md-form .mdc-text-field--outlined.mdc-text-field--disabled .mdc-text-field__input, #cf7md-form .mdc-select:not(.mdc-select--disabled) .mdc-floating-label {
- color: #DB6400!important;
+    color: #DB6400!important;
+}
+.cf7md-item.cf7md-text.mdc-layout-grid__cell.mdc-layout-grid__cell--span-12.cf7md-item-marked-up.cf7md-marked-up {
+    border-color: #DB6400!important;
+}
+#cf7md-form.mdc-line-ripple {
+    border-color: #DB6400!important;
 }
